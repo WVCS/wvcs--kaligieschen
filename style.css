@@ -1,3 +1,11 @@
-body {
 
+h3 { 
+  color: orange;
+  text-align: center;
+  font-size: 60px; 
+  border: pink dashed;
+}
+body{
+  background-color:salmon;
+  
 }
