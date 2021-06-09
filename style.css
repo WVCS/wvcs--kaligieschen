@@ -1,26 +1,16 @@
 
-h3 { 
-  color: orange;
-  text-align: center;
-  font-size: 60px; 
-  border: pink dashed;
-  font-family: "Lucida Console", "Courier New", monospace;
-}
-body{
-  background-color:salmon;
-}
-
 body{
   font-family: "Lucida Console", "Courier New", monospace;
+  background-color: #244F26;
 }
 h1{
   font-size: 200%;
-  color: gold;
+  color: #95B46A;
   text-align: center;
   vertical-align: baseline;
 }
 a {
-  color: #2F2F2F;
+  color: #244F26;
   font-size: 150%;
   text-decoration: none;
 }
@@ -29,7 +19,7 @@ ul {
   margin: 0;
   padding: 0;
   position: fixed;
-  background-color: #DCC9B6;
+  background-color: #95B46A;
   width: 100%;
   top: 0;
   left: 0;
@@ -42,4 +32,6 @@ width: 200px;
 padding: 5px;
 margin: 5px;
 }
-
+p{
+  text-align: center;
+}
