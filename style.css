@@ -3,17 +3,20 @@ body{
   font-family: "Lucida Console", "Courier New", monospace;
   background-color: #244F26;
 }
+
 h1{
   font-size: 200%;
   color: #95B46A;
   text-align: center;
   vertical-align: baseline;
 }
+
 a {
   color: #244F26;
   font-size: 150%;
   text-decoration: none;
 }
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -23,8 +26,8 @@ ul {
   width: 100%;
   top: 0;
   left: 0;
-  
-}
+  }
+
 li {
 display: inline;
 float: left;
@@ -32,6 +35,8 @@ width: 200px;
 padding: 5px;
 margin: 5px;
 }
+
 p{
   text-align: center;
 }
+
