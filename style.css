@@ -54,3 +54,14 @@ td, th {
 tr {
   background-color: #8C86AA;
 }
+
+button {
+ background-color:1C231A; 
+ color: DDE5DC;
+ border: 2 px solid;
+ border-color: B39C4D; 
+ padding: 10px 15px;
+ text-align: center; 
+ font-size: 16px; 
+ margin 4px 6px; 
+}
