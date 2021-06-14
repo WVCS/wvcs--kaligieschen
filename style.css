@@ -40,3 +40,17 @@ p{
   text-align: center;
 }
 
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 75%;
+  }
+
+td, th {
+  border: 5px solid #D3D3D3;
+  text-align: left;
+  padding: 5px;
+}
+tr {
+  background-color: #8C86AA;
+}
