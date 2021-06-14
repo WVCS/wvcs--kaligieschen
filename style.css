@@ -41,7 +41,7 @@ p{
 }
 
 table {
-  font-family: arial, sans-serif;
+  font-family: "Lucida Console", "Courier New", monospace;
   border-collapse: collapse;
   width: 75%;
   }
