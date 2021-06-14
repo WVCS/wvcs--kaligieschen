@@ -58,6 +58,7 @@ tr {
 button {
  background-color:#8C86AA; 
  color: DDE5DC;
+ font-family: "Lucida Console", "Courier New", monospace;
  border: 2 px solid;
  border-color: B39C4D; 
  padding: 10px 15px;
